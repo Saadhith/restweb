@@ -461,7 +461,7 @@ admin.html
             <div class="admin-list">
                 <div class="admin-card">
                     <img src="\static\photo.jpg" alt="Admin 1">
-                    <h3>SUDHINDRA.R</h3>
+                    <h3>Aadhith</h3>
                     <p>General Manager</p>
                 </div>
                 <div class="admin-card">
@@ -494,7 +494,7 @@ admin.html
     </main>
 
     <footer>
-        <p>Developed by SUDHINDRA.R&copy; 2024</p>
+        <p>Developed by AADHITH.S&copy; 2024</p>
     </footer>
 </body>
 </html>
@@ -513,7 +513,6 @@ admin.html
 
 
 ![alt text](<Screenshot 2024-12-27 084751.png>)
-![alt text](<Screenshot 2024-12-27 085600.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
